@@ -1,7 +1,7 @@
 """
-Author: Bisnu Ray
-User: https://t.me/BisnuRay
-Channel: https://t.me/itsSmartDev
+Author: Bi Ray
+User: https://t.me/Bi
+Channel: https://t.me/it
 """
 
 from pyrogram import Client, filters, errors
